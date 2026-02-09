@@ -1,0 +1,17 @@
+# OS/editor
+.DS_Store
+.vscode/
+
+# Common build/cache noise
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+target/
+
+# Misc
+*.swp
