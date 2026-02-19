@@ -1,0 +1,3 @@
+# 0xFUN CTF 2026
+
+- [OSINT](OSINT/)
